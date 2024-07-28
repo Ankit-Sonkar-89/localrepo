@@ -1,0 +1,19 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex d44171d..ae8fc83 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1 @@[m
+[31m-# This is my new file [m
+\ No newline at end of file[m
+[32m+[m[32m# This is my new file[m[41m [m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6b37fd5..47daa30 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,3 @@[m
+[31m-<p> Hey Sirri </p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p> Hey Sirri </p>[m
+[32m+[m[32m<p> this is new feature </p>[m
+[32m+[m[32m<P> new syntax </P>[m
+\ No newline at end of file[m
